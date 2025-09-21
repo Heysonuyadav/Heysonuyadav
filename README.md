@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+
+Hi, I'm **Sonu Yadav** – a passionate **MERN Stack Developer** from India.  
+I love **building web applications**, solving challenging problems, and learning new technologies.  
+
+- 💻 **Currently working on:** Full-stack web projects, React apps, Node.js APIs  
+- 🌱 **Learning:** Advanced JavaScript, TypeScript, and modern front-end frameworks  
+- 🎯 **Goal:** To become a professional software developer and contribute to open-source projects  
+- 🤝 **Fun fact:** I enjoy coding, exploring new tech trends, and creating mini-projects to improve my skills
+
+
 <!--
 **Heysonuyadav/Heysonuyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
